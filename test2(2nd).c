@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
+#include<math.h>
 
 
 void replace_space(char *str)
